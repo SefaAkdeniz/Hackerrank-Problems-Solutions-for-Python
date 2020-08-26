@@ -11,3 +11,4 @@
 [Staircase](https://github.com/SefaAkdeniz/Hackerrank-Problems-Solutions-for-Python/tree/master/Staircase "Staircase")</br>
 [Mini-Max Sum](https://github.com/SefaAkdeniz/Hackerrank-Problems-Solutions-for-Python/tree/master/Mini-Max%20Sum "Mini-Max Sum")</br>
 [Birthday Cake Candles](https://github.com/SefaAkdeniz/Hackerrank-Problems-Solutions-for-Python/tree/master/Birthday%20Cake%20Candles "Birthday Cake Candles")</br>
+[Grading Students](https://github.com/SefaAkdeniz/Hackerrank-Problems-Solutions-for-Python/tree/master/Grading%20Students "Grading Students")</br>
