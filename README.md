@@ -16,3 +16,5 @@
 [Apple and Orange](https://github.com/SefaAkdeniz/Hackerrank-Problems-Solutions-for-Python/tree/master/Apple%20and%20Orange "Apple and Orange")</br>
 [Kangaroo](https://github.com/SefaAkdeniz/Hackerrank-Problems-Solutions-for-Python/tree/master/Kangaroo "Kangaroo")</br>
 [Breaking the Records](https://github.com/SefaAkdeniz/Hackerrank-Problems-Solutions-for-Python/tree/master/Breaking%20the%20Records "Breaking the Records")</br>
+[Counting Valleys](https://github.com/SefaAkdeniz/Hackerrank-Problems-Solutions-for-Python/tree/master/Counting%20Valleys "Counting Valleys")</br>
+
