@@ -17,4 +17,4 @@
 [Kangaroo](https://github.com/SefaAkdeniz/Hackerrank-Problems-Solutions-for-Python/tree/master/Kangaroo "Kangaroo")</br>
 [Breaking the Records](https://github.com/SefaAkdeniz/Hackerrank-Problems-Solutions-for-Python/tree/master/Breaking%20the%20Records "Breaking the Records")</br>
 [Counting Valleys](https://github.com/SefaAkdeniz/Hackerrank-Problems-Solutions-for-Python/tree/master/Counting%20Valleys "Counting Valleys")</br>
-
+[Cats and a Mouse](https://github.com/SefaAkdeniz/Hackerrank-Problems-Solutions-for-Python/tree/master/Cats%20and%20a%20Mouse "Cats and a Mouse")</br>
