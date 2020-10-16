@@ -19,3 +19,5 @@
 [Counting Valleys](https://github.com/SefaAkdeniz/Hackerrank-Problems-Solutions-for-Python/tree/master/Counting%20Valleys "Counting Valleys")</br>
 [Cats and a Mouse](https://github.com/SefaAkdeniz/Hackerrank-Problems-Solutions-for-Python/tree/master/Cats%20and%20a%20Mouse "Cats and a Mouse")</br>
 [Migratory Birds](https://github.com/SefaAkdeniz/Hackerrank-Problems-Solutions-for-Python/tree/master/Migratory%20Birds "Migratory Birds")</br>
+[The Hurdle Race](https://github.com/SefaAkdeniz/Hackerrank-Problems-Solutions-for-Python/tree/master/The%20Hurdle%20Race
+ "The Hurdle Race")</br>
